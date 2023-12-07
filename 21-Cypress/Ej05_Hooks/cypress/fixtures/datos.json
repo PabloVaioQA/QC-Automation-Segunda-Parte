@@ -1,0 +1,14 @@
+{
+    "dataRegister": {
+        "username": "Padro",
+        "email": "pedro@gmail.com",
+        "title": "Mr.",
+        "name": "Pedro Gonzalez",
+        "password": "123456",
+        "nacimiento": {
+            "dia": 13,
+            "mes": "Enero",
+            "anio": "1995"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "dataOK": [
+        {
+            "username": "Pablo",
+            "password": "pwd"
+        },
+        {
+            "username": "Emily",
+            "password": "pwd"
+        },
+        {
+            "username": "Rodrigo",
+            "password": "pwd"
+        }
+        
+    ],
+    "dataNotOK": [
+        {
+            "username": "juan",
+            "password": "abc"
+        },
+        {
+            "username": "Desconocido123",
+            "password": "123"
+        },
+        {
+            "username": "Somebody",
+            "password": "a@bc"
+        }
+        
+    ]
+    
+}
